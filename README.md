@@ -4,7 +4,7 @@ Paper DOI (https://doi.org/10.1101/845693)
 
 ## Software Dependencies:
 - R (3.5.1)
-- XZ (...)
+- XZ (5.2.2)
 
 ## R Libraries:
 - ggplot2 (3.1.0)
