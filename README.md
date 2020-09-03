@@ -1,5 +1,5 @@
 # CMap-Evaluation
-Evaluation of CMap 1 (Lamb et al. 2006) and CMap 2/LINCS-L1000 (Subramanian et al. 2017)
+Evaluation of CMap 1 (Lamb et al. 2006) and CMap 2/LINCS-L1000 (Subramanian et al. 2017)\
 Paper DOI (https://doi.org/10.1101/845693)
 
 ## Software Dependencies:
