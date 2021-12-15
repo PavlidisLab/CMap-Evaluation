@@ -2,6 +2,9 @@
 Evaluation of CMap 1 (Lamb et al. 2006) and CMap 2/LINCS-L1000 (Subramanian et al. 2017)\
 Paper DOI (https://doi.org/10.1101/845693)
 
+## Links to Data:
+The differential expression data FTP link in the paper for CMAP 1 has changed. It can be accessed via "ftp://ftp.broadinstitute.org/distribution/cmap/ratioMatrix.txt" (without the quotes).
+
 ## Software Dependencies:
 - R (3.5.1)
 - XZ (5.2.2)
